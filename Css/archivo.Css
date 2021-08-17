@@ -1,0 +1,71 @@
+body{
+    background-image: linear-gradient(to left, #fea680, #f89f50);
+    font-family: 'Asistente', sans-serif;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+#body__Home{
+    @media only screen and{max-width: 600px;}
+    @media only screen and {min-width: 600px;}
+    @media only screen and{min-width: 992px;}    
+    
+}
+#bodyMenu{
+    background-image: url(https://image.freepik.com/free-vector/fast-food-vector-seamless-background-menu-pattern-your-packing-design-breakfast-burger-dri_53562-1833.jpg)
+}
+
+#cajaFoto{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    justify-content: space-between;
+    
+}
+#cajaFoto2{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    justify-content: space-between;
+    
+}
+
+#tablaDescuentos{
+    display: flex;
+    justify-content: center;
+}
+
+#menub{
+    color:#081c30;
+    font-weight: bolder;
+    list-style: none;
+    display:grid;
+    grid-template-columns: auto; 
+    font-size: 20px;
+    justify-content: center;
+    
+    
+    
+}
+
+#menuc{
+  color:#081c30;  
+  font-size: 20px;
+  font-weight: bolder;
+  list-style: none;
+  display:grid;
+  grid-template-columns: auto; 
+  font-size: 20px;
+  justify-content: left;
+  padding-left: 250px;
+}
+
+
+.btn-whatsapp {
+    display:block;
+    width:70px;
+    height:70px;
+    position: fixed;
+    right:20px;
+    bottom:20px;
+    border-radius:50%;
+    line-height:80px;
+    text-align:center;
+    z-index:999;
+}

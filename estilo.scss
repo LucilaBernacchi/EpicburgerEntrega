@@ -1,0 +1,82 @@
+
+
+.main__img{
+    width: 250px;
+    height: 250px;
+}
+.main__descuentos{
+    color:#01abaa;
+    font-size: 20px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.main__menu{
+    color: #000000;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+.main__mainmenu{
+    color: #000000;
+}
+
+
+.main__atencionc{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    color: rgb(255, 11, 11);
+    font-style: italic;
+}
+.main__atenciond{
+    font-size: larger;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+.main__apps{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content:space-between;
+
+}
+.main__ubicb{
+    color:#186c80;
+    font-weight: bolder;
+    
+}
+.main__cuponesFotoDescuento{
+    
+    display: flex;
+    justify-content: center;
+    padding-left: 125px;
+}
+.header__titulo--Principal{
+    color: #000000;
+    font-style: italic;
+    font-size: 45px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.div__formulario{
+    color: #186c80;
+    text-align: center;
+}
+.div__Piedepag{
+    position: fixed;
+    display: flex;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #252525;
+    font-size: 15px;
+    color: rgb(184, 189, 189);
+    text-align: center;
+}

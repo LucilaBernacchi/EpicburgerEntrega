@@ -1,0 +1,116 @@
+.main__img {
+  width: 250px;
+  height: 250px;
+}
+
+.main__descuentos {
+  color: #01abaa;
+  font-size: 20px;
+  font-weight: bolder;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.main__menu {
+  color: #000000;
+  font-style: italic;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.main__mainmenu {
+  color: #000000;
+}
+
+.main__atencionc {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 45px;
+  color: #ff0b0b;
+  font-style: italic;
+}
+
+.main__atenciond {
+  font-size: larger;
+  color: #000000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 25px;
+}
+
+.main__apps {
+  width: 70px;
+  height: 70px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.main__ubicb {
+  color: #186c80;
+  font-weight: bolder;
+}
+
+.main__cuponesFotoDescuento {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-left: 125px;
+}
+
+.header__titulo--Principal {
+  color: #000000;
+  font-style: italic;
+  font-size: 45px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.div__formulario {
+  color: #186c80;
+  text-align: center;
+}
+
+.div__Piedepag {
+  position: fixed;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  background-color: #252525;
+  font-size: 15px;
+  color: #b8bdbd;
+  text-align: center;
+}
+/*# sourceMappingURL=estilo.css.map */
